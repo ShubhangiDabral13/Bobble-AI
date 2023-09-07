@@ -5,7 +5,6 @@ from nltk.stem import WordNetLemmatizer
 import re
 ps = PorterStemmer()
 lemmatizer = WordNetLemmatizer()
-# Added a Comment
 
 text = """Steve was born in Tokyo, Japan in 1950. He moved to London with his parents when he
 was 5 years old. Steve started school there and his father began work at the hospital.
